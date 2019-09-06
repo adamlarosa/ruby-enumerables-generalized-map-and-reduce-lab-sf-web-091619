@@ -13,6 +13,7 @@ end
 
 def reduce(array, start=0)
   count = 0
+  total = start
   
   while count < array.size do
     
