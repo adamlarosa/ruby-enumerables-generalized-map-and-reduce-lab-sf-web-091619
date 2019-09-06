@@ -14,6 +14,7 @@ end
 def reduce(array)
   count = 0
   while count < array.length
-  
+    
+  count += 1
   end
 end
