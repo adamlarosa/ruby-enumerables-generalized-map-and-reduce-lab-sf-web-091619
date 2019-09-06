@@ -19,4 +19,5 @@ def reduce(array, start=0)
     total += yield(array[count])
     count += 1
   end
+  return total
 end
