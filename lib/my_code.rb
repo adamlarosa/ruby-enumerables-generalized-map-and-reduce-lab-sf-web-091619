@@ -11,15 +11,3 @@ def map(array)
   return new
 end
 
-def reduce(array, start=0)
-  count = 0
-  total = start
-  
-  while count < array.size do
-    
-    #miracle code to satisfy all requirements
-    
-    count += 1
-  end
-  return total
-end
