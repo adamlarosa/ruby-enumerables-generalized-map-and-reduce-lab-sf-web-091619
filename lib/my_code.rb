@@ -22,6 +22,8 @@ def reduce(array, start=nil)
   
   while count < array.length
     total = yield(total, array[count])
+    count += 1
+    
 
 
 end
