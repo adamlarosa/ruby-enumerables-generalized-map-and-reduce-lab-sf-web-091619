@@ -14,7 +14,6 @@ end
 def reduce(array, start=nil)
   count = 0
   
-    
-  count += 1
-  end
+
+
 end
