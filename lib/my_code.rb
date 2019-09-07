@@ -11,9 +11,9 @@ def map(array)
   return new
 end
 
-def reduce(array)
+def reduce(array, start=nil)
   count = 0
-  while count < array.length
+  
     
   count += 1
   end
