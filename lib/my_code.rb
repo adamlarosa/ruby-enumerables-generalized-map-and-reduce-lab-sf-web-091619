@@ -18,7 +18,9 @@ def reduce(array, start=nil)
   else
     total = array[0]
     count = 1
-    
+  end
+  
+  
 
 
 end
