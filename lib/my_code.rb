@@ -20,7 +20,8 @@ def reduce(array, start=nil)
     count = 1
   end
   
-  
+  while count < array.length
+    
 
 
 end
